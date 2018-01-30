@@ -1,0 +1,174 @@
+{
+	"artist": {
+		"name": "Alesso & Anitta",
+		"url": "https://www.last.fm/music/Alesso+&+Anitta",
+		"image": [{
+			"#text": "https://lastfm-img2.akamaized.net/i/u/34s/e707a601b3a5aabfa35c5b77539ceeea.png",
+			"size": "small"
+		}, {
+			"#text": "https://lastfm-img2.akamaized.net/i/u/64s/e707a601b3a5aabfa35c5b77539ceeea.png",
+			"size": "medium"
+		}, {
+			"#text": "https://lastfm-img2.akamaized.net/i/u/174s/e707a601b3a5aabfa35c5b77539ceeea.png",
+			"size": "large"
+		}, {
+			"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/e707a601b3a5aabfa35c5b77539ceeea.png",
+			"size": "extralarge"
+		}, {
+			"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/e707a601b3a5aabfa35c5b77539ceeea.png",
+			"size": "mega"
+		}, {
+			"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/e707a601b3a5aabfa35c5b77539ceeea.png",
+			"size": ""
+		}],
+		"streamable": "0",
+		"ontour": "0",
+		"stats": {
+			"listeners": "3577",
+			"playcount": "36129"
+		},
+		"similar": {
+			"artist": [{
+				"name": "Anitta & J Balvin",
+				"url": "https://www.last.fm/music/Anitta+&+J+Balvin",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/fc0167e06f544cb8c0be0cdefd2a7968.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/fc0167e06f544cb8c0be0cdefd2a7968.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/fc0167e06f544cb8c0be0cdefd2a7968.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/fc0167e06f544cb8c0be0cdefd2a7968.png",
+					"size": "extralarge"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/fc0167e06f544cb8c0be0cdefd2a7968.png",
+					"size": "mega"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/fc0167e06f544cb8c0be0cdefd2a7968.png",
+					"size": ""
+				}]
+			}, {
+				"name": "Anitta, Mc Zaac & Maejor",
+				"url": "https://www.last.fm/music/Anitta,+Mc+Zaac+&+Maejor",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/9ee888ab93bd03f65742cb58336f1127.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/9ee888ab93bd03f65742cb58336f1127.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/9ee888ab93bd03f65742cb58336f1127.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/9ee888ab93bd03f65742cb58336f1127.png",
+					"size": "extralarge"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/9ee888ab93bd03f65742cb58336f1127.png",
+					"size": "mega"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/9ee888ab93bd03f65742cb58336f1127.png",
+					"size": ""
+				}]
+			}, {
+				"name": "Selena Gomez & Marshmello",
+				"url": "https://www.last.fm/music/Selena+Gomez+&+Marshmello",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/63bb7e8259a0e5771c7acd3ca51c1c3a.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/63bb7e8259a0e5771c7acd3ca51c1c3a.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/63bb7e8259a0e5771c7acd3ca51c1c3a.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/63bb7e8259a0e5771c7acd3ca51c1c3a.png",
+					"size": "extralarge"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/63bb7e8259a0e5771c7acd3ca51c1c3a.png",
+					"size": "mega"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/63bb7e8259a0e5771c7acd3ca51c1c3a.png",
+					"size": ""
+				}]
+			}, {
+				"name": "J Balvin & Willy William",
+				"url": "https://www.last.fm/music/J+Balvin+&+Willy+William",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/090be938a6a74b196f71f32313b13209.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/090be938a6a74b196f71f32313b13209.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/090be938a6a74b196f71f32313b13209.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/090be938a6a74b196f71f32313b13209.png",
+					"size": "extralarge"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/090be938a6a74b196f71f32313b13209.png",
+					"size": "mega"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/090be938a6a74b196f71f32313b13209.png",
+					"size": ""
+				}]
+			}, {
+				"name": "IZA",
+				"url": "https://www.last.fm/music/IZA",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/871418ff77234d5067877d2e0b456a77.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/871418ff77234d5067877d2e0b456a77.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/871418ff77234d5067877d2e0b456a77.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/871418ff77234d5067877d2e0b456a77.png",
+					"size": "extralarge"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/871418ff77234d5067877d2e0b456a77.png",
+					"size": "mega"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/871418ff77234d5067877d2e0b456a77.png",
+					"size": ""
+				}]
+			}]
+		},
+		"tags": {
+			"tag": [{
+				"name": "pop",
+				"url": "https://www.last.fm/tag/pop"
+			}, {
+				"name": "dance",
+				"url": "https://www.last.fm/tag/dance"
+			}, {
+				"name": "funk",
+				"url": "https://www.last.fm/tag/funk"
+			}, {
+				"name": "brazil",
+				"url": "https://www.last.fm/tag/brazil"
+			}, {
+				"name": "brasil",
+				"url": "https://www.last.fm/tag/brasil"
+			}]
+		},
+		"bio": {
+			"links": {
+				"link": {
+					"#text": "",
+					"rel": "original",
+					"href": "https://last.fm/music/Alesso+&+Anitta/+wiki"
+				}
+			},
+			"published": "01 Jan 1970, 00:00",
+			"summary": " <a href=\"https://www.last.fm/music/Alesso+&+Anitta\">Read more on Last.fm</a>",
+			"content": ""
+		}
+	}
+}

@@ -1,0 +1,969 @@
+{
+	"results": {
+		"opensearch:Query": {
+			"#text": "",
+			"role": "request",
+			"searchTerms": "haddaway",
+			"startPage": "1"
+		},
+		"opensearch:totalResults": "24741",
+		"opensearch:startIndex": "0",
+		"opensearch:itemsPerPage": "50",
+		"albummatches": {
+			"album": [{
+				"name": "Haddaway",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Haddaway",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/0f52203255c945b2c5e1b919b109c0c0.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/0f52203255c945b2c5e1b919b109c0c0.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/0f52203255c945b2c5e1b919b109c0c0.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/0f52203255c945b2c5e1b919b109c0c0.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "0f34641f-a3b0-4f28-a168-397085e54e3f"
+			}, {
+				"name": "What Is Love - Remix",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/What+Is+Love+-+Remix",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/57987e995c6f4e76ceda21d2272d7653.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/57987e995c6f4e76ceda21d2272d7653.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/57987e995c6f4e76ceda21d2272d7653.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/57987e995c6f4e76ceda21d2272d7653.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "The Album",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/The+Album",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/de0551973f364f53cf6a6f70472db948.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/de0551973f364f53cf6a6f70472db948.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/de0551973f364f53cf6a6f70472db948.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/de0551973f364f53cf6a6f70472db948.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "3e628ebd-769e-4848-9aa5-5b1bcbe1cc26"
+			}, {
+				"name": "What Is Love",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/What+Is+Love",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/9238fe1af941e11b689dd3e13c2556b0.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/9238fe1af941e11b689dd3e13c2556b0.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/9238fe1af941e11b689dd3e13c2556b0.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/9238fe1af941e11b689dd3e13c2556b0.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "6136bc33-1e9c-4e76-8c9f-2c71fcf1c82b"
+			}, {
+				"name": "Haddaway: The Greatest Hits",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Haddaway:+The+Greatest+Hits",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/ff930db70ecdca530dea3cd75879750f.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/ff930db70ecdca530dea3cd75879750f.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/ff930db70ecdca530dea3cd75879750f.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/ff930db70ecdca530dea3cd75879750f.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "e17664d5-a553-41a4-821c-945b37af5cca"
+			}, {
+				"name": "(null)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/(null)",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "What Is Love (Single)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/What+Is+Love+(Single)",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/28c76d79df434e4c9c34666053748a1e.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/28c76d79df434e4c9c34666053748a1e.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/28c76d79df434e4c9c34666053748a1e.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/28c76d79df434e4c9c34666053748a1e.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "All The Best - His Greatest Hits",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/All+The+Best+-+His+Greatest+Hits",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/08d321f4beb94e19962aaa6e580532c8.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/08d321f4beb94e19962aaa6e580532c8.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/08d321f4beb94e19962aaa6e580532c8.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/08d321f4beb94e19962aaa6e580532c8.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "b0236429-606d-4e98-a619-67bb2793346d"
+			}, {
+				"name": "Ultimate Club Dance 90s - Vol. 2",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Ultimate+Club+Dance+90s+-+Vol.+2",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/23a474bf362807ad6d2aa3ba67abb421.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/23a474bf362807ad6d2aa3ba67abb421.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/23a474bf362807ad6d2aa3ba67abb421.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/23a474bf362807ad6d2aa3ba67abb421.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "What Is Love?",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/What+Is+Love%3F",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/f0cf71dd8de1f612634e7b10b2f70eee.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/f0cf71dd8de1f612634e7b10b2f70eee.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/f0cf71dd8de1f612634e7b10b2f70eee.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/f0cf71dd8de1f612634e7b10b2f70eee.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "All the Best",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/All+the+Best",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Haddaway",
+				"artist": "DJ Oku Luukkainen",
+				"url": "https://www.last.fm/music/DJ+Oku+Luukkainen/Haddaway",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "The Album: 2nd Edition",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/The+Album:+2nd+Edition",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/851a89f5eb164676a781a17b99315e32.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/851a89f5eb164676a781a17b99315e32.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/851a89f5eb164676a781a17b99315e32.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/851a89f5eb164676a781a17b99315e32.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "e6ad8f84-dc55-4f2c-adcb-c602d256dfae"
+			}, {
+				"name": "The Album - 2nd Edition",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/The+Album+-+2nd+Edition",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/56f4c67be3ef4f13a06f89b0d033d396.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/56f4c67be3ef4f13a06f89b0d033d396.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/56f4c67be3ef4f13a06f89b0d033d396.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/56f4c67be3ef4f13a06f89b0d033d396.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Grandmix: The Millennium Edition (Mixed by Ben Liebrand) (disc 2)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Grandmix:+The+Millennium+Edition+(Mixed+by+Ben+Liebrand)+(disc+2)",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Haddaway the Greatest Hits",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Haddaway+the+Greatest+Hits",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Night At The Roxbury",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Night+At+The+Roxbury",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/f91335a28d4443c086d85c83019e2675.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/f91335a28d4443c086d85c83019e2675.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/f91335a28d4443c086d85c83019e2675.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/f91335a28d4443c086d85c83019e2675.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "A Night At The Roxbury",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/A+Night+At+The+Roxbury",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/df0118047bd74643be4ac7ed8078aac7.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/df0118047bd74643be4ac7ed8078aac7.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/df0118047bd74643be4ac7ed8078aac7.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/df0118047bd74643be4ac7ed8078aac7.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Hit Collection Vol. 1-The Album New Edition",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Hit+Collection+Vol.+1-The+Album+New+Edition",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "All the Best: Greatest Hits",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/All+the+Best:+Greatest+Hits",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/7ea359a97b80471bbc1f9f131e73d0e3.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/7ea359a97b80471bbc1f9f131e73d0e3.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/7ea359a97b80471bbc1f9f131e73d0e3.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/7ea359a97b80471bbc1f9f131e73d0e3.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "The Drive",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/The+Drive",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/00496f7a25df46adb55ee072d7dac9da.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/00496f7a25df46adb55ee072d7dac9da.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/00496f7a25df46adb55ee072d7dac9da.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/00496f7a25df46adb55ee072d7dac9da.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "42878bb9-9a83-40ad-893c-1704638aeff2"
+			}, {
+				"name": "Rock My Heart",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Rock+My+Heart",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/6119c77b90c542c39fd5516383fe32d8.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/6119c77b90c542c39fd5516383fe32d8.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/6119c77b90c542c39fd5516383fe32d8.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/6119c77b90c542c39fd5516383fe32d8.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "7724310c-42e8-4ac4-9889-ebd1a00feca7"
+			}, {
+				"name": "Haddaway - The Album",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Haddaway+-+The+Album",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "RTL Ultimative Chart Show",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/RTL+Ultimative+Chart+Show",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "What Is Love - EP",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/What+Is+Love+-+EP",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "What Is Love (Reloaded)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/What+Is+Love+(Reloaded)",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "I Miss You",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/I+Miss+You",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/227791dd3fbf420281b55975b54a5703.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/227791dd3fbf420281b55975b54a5703.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/227791dd3fbf420281b55975b54a5703.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/227791dd3fbf420281b55975b54a5703.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "cf389e82-07c8-437f-96d6-f30b7a3a9b1a"
+			}, {
+				"name": "Best of Haddaway: What Is Love",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Best+of+Haddaway:+What+Is+Love",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Greatest Hits",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Greatest+Hits",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/478b6c580faec93df68663fae21cb29a.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/478b6c580faec93df68663fae21cb29a.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/478b6c580faec93df68663fae21cb29a.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/478b6c580faec93df68663fae21cb29a.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Let's Do It Now",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Let%27s+Do+It+Now",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/37a8b7ac1b3d4004b91f9fc1c525a036.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/37a8b7ac1b3d4004b91f9fc1c525a036.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/37a8b7ac1b3d4004b91f9fc1c525a036.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/37a8b7ac1b3d4004b91f9fc1c525a036.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "b113ac91-95fd-43a6-ae14-3a0f9c5edce7"
+			}, {
+				"name": "Haddaway - All the Best - His Greatest Hits",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Haddaway+-+All+the+Best+-+His+Greatest+Hits",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/908ff891c86546649a3b26a9a0c88cd0.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/908ff891c86546649a3b26a9a0c88cd0.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/908ff891c86546649a3b26a9a0c88cd0.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/908ff891c86546649a3b26a9a0c88cd0.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Flaix History CD1 (2002)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Flaix+History+CD1+(2002)",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "The Hit Mixes",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/The+Hit+Mixes",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Pop Splits",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Pop+Splits",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/2c9f0aaa32144c9bbeaca0048fb8d482.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/2c9f0aaa32144c9bbeaca0048fb8d482.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/2c9f0aaa32144c9bbeaca0048fb8d482.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/2c9f0aaa32144c9bbeaca0048fb8d482.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "3abbfd1c-7ff0-4586-badc-1f2ee928cc61"
+			}, {
+				"name": "All The Best: His Greatest Hits",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/All+The+Best:+His+Greatest+Hits",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/3428c673ea734a44ca1de13de8157e43.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/3428c673ea734a44ca1de13de8157e43.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/3428c673ea734a44ca1de13de8157e43.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/3428c673ea734a44ca1de13de8157e43.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "A Night At The Roxbury: From The Motion Picture",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/A+Night+At+The+Roxbury:+From+The+Motion+Picture",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Haddaway - What Is Love?",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Haddaway+-+What+Is+Love%3F",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "What Is Love (The Mixes)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/What+Is+Love+(The+Mixes)",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/d8d0aa3f84264ef4ce9f8707d1a0f457.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/d8d0aa3f84264ef4ce9f8707d1a0f457.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/d8d0aa3f84264ef4ce9f8707d1a0f457.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/d8d0aa3f84264ef4ce9f8707d1a0f457.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "The Album 2nd Edition",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/The+Album+2nd+Edition",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/a77a38861cc34204bc17a140ee94d31d.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/a77a38861cc34204bc17a140ee94d31d.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/a77a38861cc34204bc17a140ee94d31d.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/a77a38861cc34204bc17a140ee94d31d.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Haddaway-The_Album_New_Edition",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Haddaway-The_Album_New_Edition",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Haddaway Single - you gave me love",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Haddaway+Single+-+you+gave+me+love",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/3cde0b49953763b574a94744c52c38ce.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/3cde0b49953763b574a94744c52c38ce.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/3cde0b49953763b574a94744c52c38ce.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/3cde0b49953763b574a94744c52c38ce.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "You Gave Me Love",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/You+Gave+Me+Love",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/85c6cd4911d3488abcaec7c1a4b8a250.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/85c6cd4911d3488abcaec7c1a4b8a250.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/85c6cd4911d3488abcaec7c1a4b8a250.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/85c6cd4911d3488abcaec7c1a4b8a250.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Life",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Life",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/7066cf9d0c724b03aa4687abba1e185d.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/7066cf9d0c724b03aa4687abba1e185d.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/7066cf9d0c724b03aa4687abba1e185d.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/7066cf9d0c724b03aa4687abba1e185d.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": "8dcfd562-6aca-4ce5-a93d-6f9885cd2e91"
+			}, {
+				"name": "Music",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Music",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Billboard Top 100 1993",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Billboard+Top+100+1993",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Kuschelrock 8",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Kuschelrock+8",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Суперхиты дискотеки 90-х",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D1%85%D0%B8%D1%82%D1%8B+%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D1%82%D0%B5%D0%BA%D0%B8+90-%D1%85",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Catchy Tunes - June Hits!",
+				"artist": "Klaas meets Haddaway",
+				"url": "https://www.last.fm/music/Klaas+meets+Haddaway/Catchy+Tunes+-+June+Hits%21",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "Very best",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/Very+best",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}, {
+				"name": "What About Me",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/What+About+Me",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/2f2b0411cecf497a8cdbd2d08f225b79.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/2f2b0411cecf497a8cdbd2d08f225b79.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/2f2b0411cecf497a8cdbd2d08f225b79.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/2f2b0411cecf497a8cdbd2d08f225b79.png",
+					"size": "extralarge"
+				}],
+				"streamable": "0",
+				"mbid": ""
+			}]
+		},
+		"@attr": {
+			"for": "haddaway"
+		}
+	}
+}

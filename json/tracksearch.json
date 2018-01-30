@@ -1,0 +1,616 @@
+{
+	"results": {
+		"opensearch:Query": {
+			"#text": "",
+			"role": "request",
+			"startPage": "1"
+		},
+		"opensearch:totalResults": "20133",
+		"opensearch:startIndex": "0",
+		"opensearch:itemsPerPage": "30",
+		"trackmatches": {
+			"track": [{
+				"name": "What Is Love",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love",
+				"streamable": "FIXME",
+				"listeners": "525305",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "f95a4264-1641-459d-bbd9-8e8e386f6236"
+			}, {
+				"name": "What Is Love?",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love%3F",
+				"streamable": "FIXME",
+				"listeners": "37227",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "22071ae8-f40f-4eab-be51-9207fb4114a9"
+			}, {
+				"name": "What is Love - Single Mix",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+is+Love+-+Single+Mix",
+				"streamable": "FIXME",
+				"listeners": "32593",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "Life",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Life",
+				"streamable": "FIXME",
+				"listeners": "34170",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "3234afaa-0c99-407c-ae0b-434c537d6091"
+			}, {
+				"name": "I Miss You",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/I+Miss+You",
+				"streamable": "FIXME",
+				"listeners": "26413",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "a49a6daf-43cb-4756-8236-e9978ce5397a"
+			}, {
+				"name": "Rock My Heart",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Rock+My+Heart",
+				"streamable": "FIXME",
+				"listeners": "28181",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "6e80c5ab-487f-4a64-a863-7ff4f9da0070"
+			}, {
+				"name": "What Is Love (7\" Mix)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love+(7%22+Mix)",
+				"streamable": "FIXME",
+				"listeners": "15796",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "22071ae8-f40f-4eab-be51-9207fb4114a9"
+			}, {
+				"name": "Haddaway - What Is Love",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Haddaway+-+What+Is+Love",
+				"streamable": "FIXME",
+				"listeners": "1628",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "What Is Love - Radio Edit",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love+-+Radio+Edit",
+				"streamable": "FIXME",
+				"listeners": "15922",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "Haddaway",
+				"artist": "DJ Oku Luukkainen",
+				"url": "https://www.last.fm/music/DJ+Oku+Luukkainen/_/Haddaway",
+				"streamable": "FIXME",
+				"listeners": "451",
+				"image": [{
+					"#text": "",
+					"size": "small"
+				}, {
+					"#text": "",
+					"size": "medium"
+				}, {
+					"#text": "",
+					"size": "large"
+				}, {
+					"#text": "",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "What Is Love 2K9",
+				"artist": "Klaas meets Haddaway",
+				"url": "https://www.last.fm/music/Klaas+meets+Haddaway/_/What+Is+Love+2K9",
+				"streamable": "FIXME",
+				"listeners": "22608",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/923fcedc8fc84766acb8143f67ddc16e.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/923fcedc8fc84766acb8143f67ddc16e.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/923fcedc8fc84766acb8143f67ddc16e.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/923fcedc8fc84766acb8143f67ddc16e.png",
+					"size": "extralarge"
+				}],
+				"mbid": "468aa183-842c-43cf-8671-ac5331981c47"
+			}, {
+				"name": "What About Me",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+About+Me",
+				"streamable": "FIXME",
+				"listeners": "7796",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "06ee92e3-0f36-4c31-b2e2-644e5f3a3cc3"
+			}, {
+				"name": "Life (radio edit)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Life+(radio+edit)",
+				"streamable": "FIXME",
+				"listeners": "8925",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "5fb5bff7-448c-4109-ac36-4082cf601c85"
+			}, {
+				"name": "What Is Love (Haddaway)",
+				"artist": "Death In Rome",
+				"url": "https://www.last.fm/music/Death+In+Rome/_/What+Is+Love+(Haddaway)",
+				"streamable": "FIXME",
+				"listeners": "593",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/bbc32a7181481b0429f0071414807dba.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/bbc32a7181481b0429f0071414807dba.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/bbc32a7181481b0429f0071414807dba.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/bbc32a7181481b0429f0071414807dba.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "Haddaway - What Is Love",
+				"artist": "Ewan Dobson",
+				"url": "https://www.last.fm/music/Ewan+Dobson/_/Haddaway+-+What+Is+Love",
+				"streamable": "FIXME",
+				"listeners": "1254",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/7864d530c51049948cd5805df630fa57.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/7864d530c51049948cd5805df630fa57.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/7864d530c51049948cd5805df630fa57.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/7864d530c51049948cd5805df630fa57.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "Fly Away",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Fly+Away",
+				"streamable": "FIXME",
+				"listeners": "8686",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "d6fbb4b0-cc33-4e2b-98c9-2691f2e0500b"
+			}, {
+				"name": "Haddaway - What Is Love",
+				"artist": "[unknown]",
+				"url": "https://www.last.fm/music/%5Bunknown%5D/_/Haddaway+-+What+Is+Love",
+				"streamable": "FIXME",
+				"listeners": "822",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/5a418ee0f39e77dc4bb00a4fa415bb18.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/5a418ee0f39e77dc4bb00a4fa415bb18.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/5a418ee0f39e77dc4bb00a4fa415bb18.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/5a418ee0f39e77dc4bb00a4fa415bb18.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "What Is Love (Single Mix)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love+(Single+Mix)",
+				"streamable": "FIXME",
+				"listeners": "5229",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "What Is Love (Haddaway cover)",
+				"artist": "Tears & Marble",
+				"url": "https://www.last.fm/music/Tears+&+Marble/_/What+Is+Love+(Haddaway+cover)",
+				"streamable": "FIXME",
+				"listeners": "1612",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/75f701422c9747a6c76ac9a4c8f7f0f5.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/75f701422c9747a6c76ac9a4c8f7f0f5.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/75f701422c9747a6c76ac9a4c8f7f0f5.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/75f701422c9747a6c76ac9a4c8f7f0f5.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "What Is Love (Haddaway cover)",
+				"artist": "Stellar",
+				"url": "https://www.last.fm/music/Stellar/_/What+Is+Love+(Haddaway+cover)",
+				"streamable": "FIXME",
+				"listeners": "920",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/3d45f770d6583289e42d10fadccc4647.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/3d45f770d6583289e42d10fadccc4647.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/3d45f770d6583289e42d10fadccc4647.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/3d45f770d6583289e42d10fadccc4647.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "Rock my heart - radio mix",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Rock+my+heart+-+radio+mix",
+				"streamable": "FIXME",
+				"listeners": "4022",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "Shout",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Shout",
+				"streamable": "FIXME",
+				"listeners": "7729",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "81197241-5391-481a-86f1-972d37349ce9"
+			}, {
+				"name": "What Is Love (Club Mix)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love+(Club+Mix)",
+				"streamable": "FIXME",
+				"listeners": "5011",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "e7af0d1b-e264-468c-b183-d0a357eaa9b7"
+			}, {
+				"name": "Mama's House",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Mama%27s+House",
+				"streamable": "FIXME",
+				"listeners": "6877",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "52ffeeaf-9795-4acc-862e-182fb06fd62f"
+			}, {
+				"name": "What Is Love (12\" Mix)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love+(12%22+Mix)",
+				"streamable": "FIXME",
+				"listeners": "3693",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "0ae00010-c39f-4f06-beca-267192046861"
+			}, {
+				"name": "Catch A Fire",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/Catch+A+Fire",
+				"streamable": "FIXME",
+				"listeners": "3988",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "385bdb46-75b5-4256-8f50-73ce3cd6e379"
+			}, {
+				"name": "What Is Love (Haddaway cover)",
+				"artist": "Death In Rome",
+				"url": "https://www.last.fm/music/Death+In+Rome/_/What+Is+Love+(Haddaway+cover)",
+				"streamable": "FIXME",
+				"listeners": "724",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/bbc32a7181481b0429f0071414807dba.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/bbc32a7181481b0429f0071414807dba.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/bbc32a7181481b0429f0071414807dba.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/bbc32a7181481b0429f0071414807dba.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "What Is Love (7' Mix)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love+(7%27+Mix)",
+				"streamable": "FIXME",
+				"listeners": "2791",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "What Is Love (Reloaded)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love+(Reloaded)",
+				"streamable": "FIXME",
+				"listeners": "3904",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": ""
+			}, {
+				"name": "What Is Love (Original 7\" Mix)",
+				"artist": "Haddaway",
+				"url": "https://www.last.fm/music/Haddaway/_/What+Is+Love+(Original+7%22+Mix)",
+				"streamable": "FIXME",
+				"listeners": "4303",
+				"image": [{
+					"#text": "https://lastfm-img2.akamaized.net/i/u/34s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "small"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/64s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "medium"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/174s/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "large"
+				}, {
+					"#text": "https://lastfm-img2.akamaized.net/i/u/300x300/280e16bbba3d43f9996fa5739c4c8733.png",
+					"size": "extralarge"
+				}],
+				"mbid": "22071ae8-f40f-4eab-be51-9207fb4114a9"
+			}]
+		},
+		"@attr": {}
+	}
+}
