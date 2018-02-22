@@ -40,7 +40,7 @@ $('ul.cat li').on('touchend click',function () {
 
 //captura clique da tab de midias tracks, artistas e albums para categorias
 $('ul.tabsCat li').click(function () {
-	let data = $(this).attr('data');
+	let data = $(this).attr('data-name');
 	$('ul.tabsCat li').removeClass('current');
 	$('div.tab-content-cat').removeClass('current');
 	$(this).addClass('current');
