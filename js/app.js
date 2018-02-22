@@ -365,11 +365,11 @@ let getTopTracksOrAlbumsforArtist = (artist, trackOrAlbum, limit) => $.ajax({
 
 let getRadio = (opt) => {
 	//const url = `http://prem1.di.fm/${opt.radio}?5f14551afa408910a820a8af`;
-	//const url = `http://hot.friezy.ru/?radio=di&station=${radio}&bitrate=320`;
+	//const url = `https://hot.friezy.ru/?radio=di&station=${radio}&bitrate=320`;
 	//const url = `https://pub2.diforfree.org:8000/di_${radio}_hi`;
 	//console.log(radio);
 	let stream = {
-		m4a: `http://hot.friezy.ru/?radio=di&station=${opt.radio}&bitrate=320`
+		m4a: `https://hot.friezy.ru/?radio=di&station=${opt.radio}&bitrate=320`
 	}
 	$(".interface .folder").css({"background-image":"url('images/ritmos/"+opt.name+".jpg')"});
 	//$(".interface .titleRadio").html(opt.cat);
