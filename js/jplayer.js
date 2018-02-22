@@ -506,38 +506,38 @@
 			maxPlaybackRate: 4,
 			wmode: "opaque", // Valid wmode: window, transparent, opaque, direct, gpu. 
 			backgroundColor: "#000000", // To define the jPlayer div and Flash background color.
-			cssSelectorAncestor: "#jp_container_1",
+			cssSelectorAncestor: "#jp_container",
 			cssSelector: { // * denotes properties that should only be required when video media type required. _cssSelector() would require changes to enable splitting these into Audio and Video defaults.
-				videoPlay: ".jp-video-play", // *
-				play: ".jp-play",
-				pause: ".jp-pause",
-				stop: ".jp-stop",
-				seekBar: ".jp-seek-bar",
-				playBar: ".jp-play-bar",
-				mute: ".jp-mute",
-				unmute: ".jp-unmute",
-				volumeBar: ".jp-volume-bar",
-				volumeBarValue: ".jp-volume-bar-value",
-				volumeMax: ".jp-volume-max",
-				playbackRateBar: ".jp-playback-rate-bar",
-				playbackRateBarValue: ".jp-playback-rate-bar-value",
-				currentTime: ".jp-current-time",
-				duration: ".jp-duration",
-				title: ".jp-title",
-				fullScreen: ".jp-full-screen", // *
-				restoreScreen: ".jp-restore-screen", // *
-				repeat: ".jp-repeat",
-				repeatOff: ".jp-repeat-off",
-				gui: ".jp-gui", // The interface used with autohide feature.
-				noSolution: ".jp-no-solution" // For error feedback when jPlayer cannot find a solution.
+				videoPlay: ".video-play", // *
+				play: ".play",
+				pause: ".pause",
+				stop: ".stop",
+				seekBar: ".seek-bar",
+				playBar: ".play-bar",
+				mute: ".mute",
+				unmute: ".unmute",
+				volumeBar: ".volume-bar",
+				volumeBarValue: ".volume-bar-value",
+				volumeMax: ".volume-max",
+				playbackRateBar: ".playback-rate-bar",
+				playbackRateBarValue: ".playback-rate-bar-value",
+				currentTime: ".current-time",
+				duration: ".duration",
+				title: ".title",
+				fullScreen: ".full-screen", // *
+				restoreScreen: ".restore-screen", // *
+				repeat: ".repeat",
+				repeatOff: ".repeat-off",
+				gui: ".gui", // The interface used with autohide feature.
+				noSolution: ".no-solution" // For error feedback when jPlayer cannot find a solution.
 			},
 			stateClass: { // Classes added to the cssSelectorAncestor to indicate the state.
-				playing: "jp-state-playing",
-				seeking: "jp-state-seeking",
-				muted: "jp-state-muted",
-				looped: "jp-state-looped",
-				fullScreen: "jp-state-full-screen",
-				noVolume: "jp-state-no-volume"
+				playing: "state-playing",
+				seeking: "state-seeking",
+				muted: "state-muted",
+				looped: "state-looped",
+				fullScreen: "state-full-screen",
+				noVolume: "state-no-volume"
 			},
 			useStateClassSkin: false, // A state class skin relies on the state classes to change the visual appearance. The single control toggles the effect, for example: play then pause, mute then unmute.
 			autoBlur: true, // GUI control handlers will drop focus after clicks.
@@ -551,7 +551,7 @@
 				fadeOut: 600, // Milliseconds. The period of the fadeOut anim.
 				hold: 1000 // Milliseconds. The period of the pause before autohide beings.
 			},
-			loop: false,
+			loop: true,
 			repeat: function(event) { // The default jPlayer repeat event handler
 				if(event.jPlayer.options.loop) {
 					$(this).unbind(".jPlayerRepeat").bind($.jPlayer.event.ended + ".jPlayer.jPlayerRepeat", function() {
@@ -2957,7 +2957,9 @@
 				this.htmlElement.media.src = "about:blank";
 				// The following load() is only required for Firefox 3.6 (PowerMacs).
 				// Recent HTMl5 browsers only require the src change. Due to changes in W3C spec and load() effect.
+				
 				this.htmlElement.media.load(); // Stops an old, "in progress" download from continuing the download. Triggers the loadstart, error and emptied events, due to the empty src. Also an abort event if a download was in progress.
+				
 			}
 		},
 		_html_load: function() {

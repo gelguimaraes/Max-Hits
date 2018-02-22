@@ -193,8 +193,6 @@
 .lity-hide {
 	display: none;
 }
-
-.lity-active,
-.lity-active body {
-    overflow: hidden;
+.lity-active, .lity-active body {
+	overflow: hidden;
 }

@@ -1,12 +1,10 @@
 
 #carousel {
-	position: absolute;
-    top: 290px;
-    background: #050505b5;
+    background: rgba(5, 5, 5, 0.71);
     height: 225px;
     width: 100%;
     overflow: hidden;
-    left: 0;
+ 
 }
 ul.cat {
     user-select: none;
@@ -42,7 +40,7 @@ ul.cat li span{
     color: #292929;
     font-size: 17px;
     width: 122px;
-    background-color: #ffffffc7;
+    background-color: rgba(255, 255, 255, 0.78);
     padding: 2px 25px;
     font-weight: bold;
     transform: skew(-22deg) translateX(-7px);

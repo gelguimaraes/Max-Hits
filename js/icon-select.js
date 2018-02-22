@@ -297,7 +297,7 @@ function IconSelect($$elementID, $$parameters) {
 }
 
 
-countrySelect = function(){
+let countrySelect = function(){
 	'use strict'
 	let iconSelect;
 	iconSelect = new IconSelect('selectCountry', 
@@ -331,5 +331,7 @@ countrySelect = function(){
 	iconSelect.refresh(icons);
 };
 
+
 //carregando o select
 $(countrySelect());
+
