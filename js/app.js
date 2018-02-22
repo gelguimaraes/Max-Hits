@@ -11,8 +11,8 @@ const optType = {
 	midia: "Tracks",
 	country: "Brasil",
 	midiaCountry: "Tracks",
-	radio: "nightcore",
-	name: "nightcore"
+	radio: "electrohouse",
+	name: "eletronics"
 }
 
 //opcão padrão para as tags ou categorias
@@ -40,13 +40,13 @@ $('ul.cat li').on('touchend click',function () {
 
 //captura clique da tab de midias tracks, artistas e albums para categorias
 $('ul.tabsCat li').click(function () {
-	let data = $(this).attr('data-name');
+	let data = $(this).attr('data');
 	$('ul.tabsCat li').removeClass('current');
 	$('div.tab-content-cat').removeClass('current');
 	$(this).addClass('current');
 	$("#" + data).addClass('current').html("<span class='loading'></span>");
-	optType.cat = $('ul.cat li.current span').text();
-	optType.midia = $('ul.tabsCat li.current').text();
+	optType.cat = $('ul.cat li.itemslide-active span').text();
+	optType.midia = $('ul.tabsCat li.itemslide-active').text();
 	optTag.method = 'tag.gettop' + data;
 	getTopList(optTag, data, optType);
 	//console.log(data)	
