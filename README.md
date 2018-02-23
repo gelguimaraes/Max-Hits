@@ -20,8 +20,8 @@ Foi utilizada a API do [Last FM](https://last.fm/api) para as requisições das 
 
 ## Requisitos
 ### Bibliotecas
-- [jQuery ^3.3.1]
-- [Bootstrap 3.3.7]
+- [jQuery ^3.3.1](https://jquery.com/)
+- [Bootstrap 3.3.7](https://getbootstrap.com/docs/3.3/)
 
 ### Plugins
 - [Alertifyjs ^1.11.0](http://alertifyjs.com)
