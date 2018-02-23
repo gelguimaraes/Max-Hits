@@ -16,7 +16,7 @@ Aplicação criada para os amantes de Hits Eletrônicos que buscam se atualizar 
 - Tocar stream de musica de ritmos específicos
 
 ## Recursos da API
-Foi utilizada a API do [Last FM](https://last.fm/api) para as requisições das mídias. Também foi utilizado o webservice da radio [DI FM](https://difm.com) para streaming de músicas.
+Foi utilizada a API do [Last FM](https://last.fm/api) para as requisições das mídias. Também foi utilizado o webservice da radio [DI FM](https://www.di.fm) para streaming de músicas.
 
 ## Requisitos
 ### Bibliotecas
@@ -30,7 +30,7 @@ Foi utilizada a API do [Last FM](https://last.fm/api) para as requisições das 
 - [Icon Select 1.0](http://www.bugraozden.com)
 - [Itemslide 1.3.0](http://itemslide.github.io)
 - [Lity ^2.3.0](http://sorgalla.com/lity/)
-- [Nice Select 1.1.0](https://github.com/hernansartorio/jquery-nice-select)
+- [Nice Select 1.1.0](http://hernansartorio.com/jquery-nice-select/)
 - [Vegas ^2.4.0](http://vegas.jaysalvat.com)
 
 
