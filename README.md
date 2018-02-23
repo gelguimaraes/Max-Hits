@@ -1,4 +1,4 @@
-# MAX HITS
+# [MAX HITS](https://gelguimaraes.github.io/Max-Hits/)
 
 ![Max-Hits](wireframes/max-hits.jpg)
 
@@ -9,11 +9,11 @@ Aplicação web que utiliza a API do Last.fm para listar os Hits Eletrônicos ma
 Aplicação criada para os amantes de Hits Eletrônicos que buscam se atualizar sobre os artistas, sobre as musicas e sobre os álbuns mais tocados nas paradas do Mundo e do Brasil.
 
 ## Funcionalidades
-- Listar os hits de músicas, artistas e álbuns por ritmos 
-- Listar os hits de músicas e  artistas por países
-- Exibir informações das mídias listadas
+- Listar os top hits de músicas, artistas e álbuns por ritmos 
+- Listar os top hits de músicas e  artistas por países
 - Procurar por mídias a partir de um campo de busca
-- Tocar stream de musica de ritmos específicos
+- Exibir informações das mídias listadas e procuradas
+- Tocar streaming de música de ritmos específicos
 
 ## Recursos da API
 Foi utilizada a API do [Last FM](https://last.fm/api) para as requisições das mídias. Também foi utilizado o webservice da radio [DI FM](https://www.di.fm) para streaming de músicas.
@@ -68,6 +68,7 @@ Foi utilizado o webpack para geração do bundle.js, bundle.css utilizando os m�
 
 
 ## Contato
-Gesoaldo Guimarães | gesoaldo.guimaraes@academico.ifpb.edu.br
+Gesoaldo Guimarães - gesoaldo.guimaraes@academico.ifpb.edu.br
+Sistemas para Internet - IFPB
 
 
