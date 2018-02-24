@@ -1,8 +1,6 @@
-# [MAX HITS](https://gelguimaraes.github.io/Max-Hits/)
+# [MAX HITS](https://gelguimaraes.github.io/Max-Hits/)  [Capa](wireframes/capa/)
 
 ![Max-Hits](wireframes/max-hits.jpg)
-
-![Capa](wireframes/capa/)
 
 ## Descrição
 Aplicação web que utiliza a API do Last.fm para listar os Hits Eletrônicos mais tocados no mundo e no Brasil, além de permitir ao usuário buscar por músicas, álbuns ou seus artistas preferidos escutando um bom hit eletrônico!
