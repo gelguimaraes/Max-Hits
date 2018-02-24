@@ -2,6 +2,8 @@
 
 ![Max-Hits](wireframes/max-hits.jpg)
 
+![Max-Hits-Capa](wireframes/max-hits-capa.jpg)
+
 ## Descrição
 Aplicação web que utiliza a API do Last.fm para listar os Hits Eletrônicos mais tocados no mundo e no Brasil, além de permitir ao usuário buscar por músicas, álbuns ou seus artistas preferidos escutando um bom hit eletrônico!
 
