@@ -1,4 +1,4 @@
-# [MAX HITS](https://gelguimaraes.github.io/Max-Hits/)  [[Capa]](wireframes/capa/)
+# [MAX HITS](https://gelguimaraes.github.io/Max-Hits/)  [[Capa]](capa/)
 
 ![Max-Hits](wireframes/max-hits.jpg)
 
